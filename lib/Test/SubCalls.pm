@@ -49,7 +49,7 @@ use Hook::LexWrap 0.20 ();
 use Exporter           ();
 use Test::Builder      ();
 
-our $VERSION = '1.10';
+our $VERSION = '1.11';
 use vars qw{@ISA @EXPORT};
 BEGIN {
 	@ISA     = 'Exporter';
